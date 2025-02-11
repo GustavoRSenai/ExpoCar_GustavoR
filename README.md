@@ -18,8 +18,18 @@
 <br>
 <br>
 
- <img style="width:700px" src="https://github.com/user-attachments/assets/89cc7c58-7834-4a38-8e4d-614257d74268">
- <img src="https://github.com/user-attachments/assets/bcce6c8e-db04-4e86-a292-6ba5badbe494">
+ <img style="width:600px;" src="https://github.com/user-attachments/assets/89cc7c58-7834-4a38-8e4d-614257d74268">
+ <img style="height:400px;"src="https://github.com/user-attachments/assets/bcce6c8e-db04-4e86-a292-6ba5badbe494">
 
+ > Os protótipos servem para que junto do manual de marca o programador consiga fazer exatamente o que o cliente espera pelo site, já que o mesmo irá ver o protótipo e ver se condiz com suas expectativas.
 
+<br>
+<hr>
+<br>
 
+## Por último fizemos a programação do site para o cliente poder iniciar seus trabalhos juntos com o site.
+
+ <img style="width:600px;" src="https://github.com/user-attachments/assets/3dbc7c9e-76c1-49e1-a412-1e809d4638d7">
+ <img style="height:400px;"src="https://github.com/user-attachments/assets/0ff97289-51df-48d4-b2ea-7179e5a35f7a">
+
+> O site segue a risca o que está no protótipo porém com pequenas modificações que podem ser soicitadas pelo cliente durante a programação.
